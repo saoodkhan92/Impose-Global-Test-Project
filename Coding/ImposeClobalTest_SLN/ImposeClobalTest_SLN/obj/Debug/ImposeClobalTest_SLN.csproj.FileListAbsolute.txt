@@ -1,0 +1,7 @@
+C:\Users\amolp\source\repos\ImposeClobalTest_SLN\ImposeClobalTest_SLN\obj\Debug\ImposeClobalTest_SLN.csprojAssemblyReference.cache
+C:\Users\amolp\source\repos\ImposeClobalTest_SLN\ImposeClobalTest_SLN\obj\Debug\ImposeClobalTest_SLN.csproj.CoreCompileInputs.cache
+C:\Users\amolp\source\repos\ImposeClobalTest_SLN\ImposeClobalTest_SLN\bin\Debug\ImposeClobalTest_SLN.exe.config
+C:\Users\amolp\source\repos\ImposeClobalTest_SLN\ImposeClobalTest_SLN\bin\Debug\ImposeClobalTest_SLN.exe
+C:\Users\amolp\source\repos\ImposeClobalTest_SLN\ImposeClobalTest_SLN\bin\Debug\ImposeClobalTest_SLN.pdb
+C:\Users\amolp\source\repos\ImposeClobalTest_SLN\ImposeClobalTest_SLN\obj\Debug\ImposeClobalTest_SLN.exe
+C:\Users\amolp\source\repos\ImposeClobalTest_SLN\ImposeClobalTest_SLN\obj\Debug\ImposeClobalTest_SLN.pdb
